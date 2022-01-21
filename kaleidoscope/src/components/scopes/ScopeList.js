@@ -2,7 +2,7 @@ import React from 'react';
 
 
 const ScopeList = () => {
-    return <div>Poo</div>
+    return <div>ScopeList</div>
 
 };
 
