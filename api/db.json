@@ -1,0 +1,16 @@
+{
+  "scopes": [
+    {
+      "title": "Test",
+      "description": "Testing!",
+      "userId": "116884381714675914618",
+      "id": 1
+    },
+    {
+      "title": "poo",
+      "description": "poo",
+      "userId": "116884381714675914618",
+      "id": 2
+    }
+  ]
+}
