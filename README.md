@@ -1,7 +1,7 @@
 # Kaleidoscope Rails React Streaming SPA
 [Check out the demo here🎬](https://drive.google.com/file/d/1SwbOXUKy4HXsCxGKzT5KuOr6SqxColux/view?usp=sharing)
 
-Description
+## Description
 This is a Simple Streaming Application. It allows users CRUD functionality for their own streams.
 
 Similar to large scale counterparts, it is designed for straightforward use with minimal explanation required for the user.
@@ -18,11 +18,11 @@ Similar to large scale counterparts, it is designed for straightforward use with
    * Enjoy viewing your own stream online!
    
 
-Contributing
+## Contributing
 Bug reports and pull requests are welcome on GitHub at https://github.com/mwpenn94/kaleidoscope. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the code of conduct.
 
-License
+## License
 The gem is available as open source under the terms of the MIT License.
 
-Code of Conduct
+## Code of Conduct
 Everyone interacting in Kaleidoscope's project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the code of conduct.
